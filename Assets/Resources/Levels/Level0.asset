@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2725120722abae94b93e32b76f60f8c2, type: 3}
+  m_Name: Level0
+  m_EditorClassIdentifier: 
+  redSlime: {fileID: 6873147495579865646, guid: 8915183cbe7c9e2409da35bfa1fb4889, type: 3}
+  redSlimeCount: 5
+  redSlimeInterval: 1
+  redSlimeStart: 3
+  yellowSlime: {fileID: 4086830394135982891, guid: 9c6aa831aad451a469fddcc316d4a22d, type: 3}
+  yellowSlimeCount: 1
+  yellowSlimeInterval: 1
+  yellowSlimeStart: 10
